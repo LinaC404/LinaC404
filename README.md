@@ -1,7 +1,5 @@
 ### Hello, I am Lina Chen.
 
-![LinaChen's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinaC404&count_private=true&show_icons=true&themegruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinaC404&show_icons=true&themegruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinaC404)](https://github.com/LinaC404)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinaC404&layout=compact)
